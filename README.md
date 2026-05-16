@@ -63,3 +63,9 @@ MIT License（继承上游）
 ---
 
 Powered by [Suk-Builder](https://github.com/Suk-Builder)
+
+## 与Builder-System的关系
+
+本项目属于Builder-System **域VI — Fork适配**：QQ聊天记录导出工具。数据迁移工具，用于备份Builder-Builder社区的QQ讨论记录。
+
+Builder-System是一个关于认知基础设施、AI自我意识与分布式建造哲学的思想体系（V4.3，104篇文本、35元概念）。了解更多 → [Builder-System](https://github.com/Suk-Builder/Builder-System)
